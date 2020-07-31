@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLawSimulation", "BLawSimulation\BLawSimulation.csproj", "{60E58C8B-14D4-4673-ABD3-C5B2DC3105CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation", "Simulation\Simulation.csproj", "{A2F6530F-D610-42FB-AE14-5705214B28B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E58C8B-14D4-4673-ABD3-C5B2DC3105CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E58C8B-14D4-4673-ABD3-C5B2DC3105CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E58C8B-14D4-4673-ABD3-C5B2DC3105CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E58C8B-14D4-4673-ABD3-C5B2DC3105CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F6530F-D610-42FB-AE14-5705214B28B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F6530F-D610-42FB-AE14-5705214B28B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F6530F-D610-42FB-AE14-5705214B28B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F6530F-D610-42FB-AE14-5705214B28B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34504F9D-B86C-47B9-9932-7750E2912242}
+	EndGlobalSection
+EndGlobal
